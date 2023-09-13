@@ -1,2 +1,2 @@
 # auco-project-main
-AUCO Technical TEst
+AUCO Technical Test
